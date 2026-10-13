@@ -1,0 +1,10 @@
+.kotak {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    border: 10px solid navy;
+    padding: 5px;
+    margin: 50px;
+    text-align: center;
+    line-height: 100px;
+}
